@@ -6,6 +6,7 @@ This repository contains the replication data for the forecasting part of the pa
 The repository includes the necessary scripts and data to replicate the results presented in the paper for the forecasting part. The primary script, `Colab.py`, executes both models, generates output files, and store prediction results.
 
 ## Requirements
+- WARNING: The PRIO-GRID Yearly Variables for 2007-2014 and PRIO-GRID Static Variables Dataset (available here: https://grid.prio.org/#/download) need to be added in the Input folder.
 - **Python version:** 3.8.5
 - Required libraries: Install dependencies using:
   ```bash
